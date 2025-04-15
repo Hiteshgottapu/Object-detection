@@ -59,5 +59,5 @@ The trained model is used to predict the class of new images. Images are preproc
 ## Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/object-detection.git
+   git clone https://github.com/Hiteshgottapu/Object-detection.git
    cd object-detection
